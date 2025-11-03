@@ -51,8 +51,9 @@ This project demonstrates a fully open-source **Retrieval-Augmented Generation (
 ## Visualizations
 
 t-SNE plot showing semantic clustering of document chunk embeddings:
+<img width="1025" height="743" alt="t-SNE" src="https://github.com/user-attachments/assets/b2039513-7afb-4c76-b085-f8220817ce2d" />
 
-![t-SNE Visualization](t-SNE.png)
+
 
 _t-SNE plot shows semantic clusters. Tighter clusters mean the embedding model is effective at separating topics._
 
