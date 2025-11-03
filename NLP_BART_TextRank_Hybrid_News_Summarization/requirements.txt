@@ -1,0 +1,13 @@
+transformers
+datasets
+sentence-transformers
+sumy
+nltk
+evaluate
+rouge-score
+bert-score
+fastapi
+uvicorn
+optuna
+accelerate
+
