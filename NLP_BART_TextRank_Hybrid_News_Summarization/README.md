@@ -49,17 +49,17 @@ Due to massive daily news volume, efficient high-quality summarization is essent
 1. **Install requirements:**
 pip install -r requirements.txt
 
-text
+
 
 2. **Launch notebook:**
 jupyter notebook BART-TextRank-Hybrid-for-News-Summarization.ipynb
 
-text
+
 
 3. **For API deployment:**
 uvicorn summarization_api:app --reload
 
-text
+
 *(All details/workflow included in the notebook)*
 
 ---
