@@ -42,7 +42,7 @@ Modern AI assistants must accurately classify a wide variety of user intents to 
 
 - **Error-focused intent confusion heatmap:**
   
-  ![Heatmap of top confused intents](images/heatmap.jpg)
+  ![Heatmap of top confused intents](images/heatmap.png)
 
 ---
 
