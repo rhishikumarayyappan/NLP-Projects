@@ -61,9 +61,7 @@ _t-SNE plot shows semantic clusters. Tighter clusters mean the embedding model i
 ## Getting Started
 
 1. **Install dependencies:**
-pip install -r requirements.txt
-
-text
+pip install -r requirements.
 2. **Run notebook:** Open `NLP_Open_Source_RAG_QA_Notebook.ipynb` in Google Colab or Jupyter.
 3. **Test with Example Queries:** The notebook demonstrates QA and performance.
 
